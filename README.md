@@ -10,6 +10,7 @@ I collected random images from YouTube videos about workshops to see
 if the Vision framework can help me answer these two questions:
 1. Does the image contain a clearly visible vehicle?
 1. Are there any faces in the image and what are their locations?
+
 It turned out Vision can answer both questions with good accuracy.
 
 Here’s a screenshot of my sample app where I tested the Vision framework:
